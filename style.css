@@ -79,7 +79,7 @@ li a {
 button {
     background-color: #3882f6;
     color: white;
-    border-radius: 15%;
+    border-radius: 15px;
     padding: 5px 20px;
     margin-top: 5px;
 }
@@ -114,7 +114,7 @@ img {
     width: 200px;
     height: 200px;
     border: 5px solid #3882f6;
-    border-radius: 10%;
+    border-radius: 10px;
 }
 
 .text-under-boxes {
